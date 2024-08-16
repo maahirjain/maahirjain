@@ -33,8 +33,8 @@ LinkedIn: [linkedin.com/in/maahirjain](http://linkedin.com/in/maahirjain)
 [View my resume](https://maahirjain.github.io/assets/pdfs/Maahir_Jain_Resume.pdf).
 
 <p float="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=maahirjain&theme=dark&background=000000" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahirjain&layout=compact&theme=vision-friendly-dark" height="200" /> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=maahirjain&theme=dark&background=000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahirjain&layout=compact&theme=vision-friendly-dark" height="150" /> 
 </p>
 
 
