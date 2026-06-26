@@ -22,7 +22,7 @@
 
 <h2 align="center">Hi, I'm Maahir Jain 👋</h2>
 
-I’m a senior at $\color{#B3A369}\textbf{Georgia Tech}$ majoring in [computer science](https://www.cc.gatech.edu/), with experience as a software engineering intern at $\color{#0081FB}\textbf{Meta}$ and a linear algebra teaching assistant. I’m passionate about creating beautiful web and mobile experiences, with additional interests in chess, mathematics, and computer graphics.
+I’m a [computer science](https://www.cc.gatech.edu/) graduate from $\color{#B3A369}\textbf{Georgia Tech}$, with experience as a software engineering intern at $\color{#0081FB}\textbf{Meta}$ and as a linear algebra teaching assistant. I’m passionate about creating beautiful web and mobile experiences, with additional interests in chess, mathematics, and computer graphics.
 
 Check out [my website](https://maahirjain.github.io) to learn more.
 
