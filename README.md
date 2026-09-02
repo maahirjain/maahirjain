@@ -28,10 +28,5 @@ Check out [maahir.xyz](https://maahir.xyz) to learn more.
 Email: [maahirdjain@gmail.com](mailto:maahirdjain@gmail.com)<br>
 LinkedIn: [linkedin.com/in/maahirjain](http://linkedin.com/in/maahirjain)
 
-<p float="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=maahirjain&theme=dark&background=000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahirjain&layout=compact&theme=vision-friendly-dark" height="150" /> 
-</p>
-
 
 
