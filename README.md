@@ -18,11 +18,13 @@
 
 <h2 align="center">Hi, I'm Maahir Jain 👋</h2>
 
-I build software and run experiments to investigate questions I find interesting. Currently at $\color{#0081FB}\textbf{Meta}$.
+I build software and run experiments to investigate questions I find interesting. 
+
+Currently at $\color{#0081FB}\textbf{Meta}$.
 
 Check out [maahir.xyz](https://maahir.xyz) to learn more.
 
-**Feel free to reach out!**<br>
+**Reach out!**<br>
 Email: [maahirdjain@gmail.com](mailto:maahirdjain@gmail.com)<br>
 LinkedIn: [linkedin.com/in/maahirjain](http://linkedin.com/in/maahirjain)
 
